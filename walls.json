@@ -3,16 +3,16 @@
 		[
 			{
 				"name": "Blue Pattern",
-				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/blob/master/blue_pattern.jpg",
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/blue_pattern.jpg",
 				"downloadable": true
 			},
 			{
 				"name": "Bart Hypebeast",
-				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/blob/master/simpson_hypebeast.jpg"
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/ninja.jpg"
 			},
 			{
 				"name": "Swords",
-				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/blob/master/ninja.jpg"
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/simpson_hypebeast.jpg"
 			}
 		]
 }
