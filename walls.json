@@ -8,12 +8,12 @@
 			},
 			{
 				"name": "Bart Hypebeast",
-				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/ninja.jpg"
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/simpson_hypebeast.jpg",
+				"downloadable": false
 			},
 			{
 				"name": "Swords",
-				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/simpson_hypebeast.jpg"
-				"downloadable": false
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/ninja.jpg"
 			}
 		]
 }
