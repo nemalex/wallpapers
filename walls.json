@@ -2,9 +2,12 @@
 	"wallpapers": 
 		[
 			{
+				"name": "",
+				"url": ""
+			},
+			{
 				"name": "Blue Pattern",
-				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/blue_pattern.jpg",
-				"downloadable": true
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/blue_pattern.jpg"
 			},
 			{
 				"name": "Bart Hypebeast",
@@ -15,5 +18,52 @@
 				"name": "Swords",
 				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/ninja.jpg"
 			}
+			{
+				"name": "Blue Car",
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/car.jpeg"
+			},
+			{
+				"name": "Mickey Dope",
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/dope.jpeg"
+			},
+			{
+				"name": "Galaxy Smoke",
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/galaxy_smoke.jpeg"
+			},{
+				"name": "Girl 1",
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/girl.jpeg"
+			},
+			{
+				"name": "Girl 2",
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/girl2.jpeg"
+			},
+			{
+				"name": "Lincoln Supreme",
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/lincoln.jpeg"
+			},
+			{
+				"name": "Mickey Hands",
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/mickey_hand.jpeg"
+			},
+			{
+				"name": "Pattern 1",
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/pattern.jpeg"
+			},
+			{
+				"name": "Pattern 2",
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/pattern2.jpeg"
+			},
+			{
+				"name": "Pattern 3",
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/pattern3.jpeg"
+			},
+			{
+				"name": "Pattern 4",
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/pattern4.jpeg"
+			},
+			{
+				"name": "Trill",
+				"url": "https://raw.githubusercontent.com/nemalex/wallpapers/master/trill.jpg"
+			},
 		]
 }
